@@ -1,0 +1,1 @@
+Ejercicio realizado con MongoDB, NodeJS y Graphql, utilizando Json web token para la parte de autenticancion.
